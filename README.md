@@ -92,4 +92,5 @@ Lalu di Android Studio → **Build > Generate Signed APK**
 
 ## 👥 Team
 
-NalaNeoMusic Team — 2024
+NalaNeoMusic Team — 2026
+
